@@ -1,0 +1,18 @@
+SMAP
+Faculty_jsp.java
+JSP
+*S JSP
+*F
++ 0 Faculty.jsp
+General-master/Faculty.jsp
++ 1 header.jsp
+General-master/header.jsp
++ 2 footer.jsp
+General-master/footer.jsp
+*L
+5,25:50
+5#1,265:75
+29#0,157:339
+5#2,193:496
+185#0,4:688
+*E

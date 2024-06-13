@@ -1,0 +1,18 @@
+SMAP
+Grievance_002dPortal_jsp.java
+JSP
+*S JSP
+*F
++ 0 Grievance-Portal.jsp
+General-master/Grievance-Portal.jsp
++ 1 header.jsp
+General-master/header.jsp
++ 2 footer.jsp
+General-master/footer.jsp
+*L
+5,11:50
+5#1,265:61
+15#0,39:325
+5#2,193:364
+53#0,4:556
+*E
