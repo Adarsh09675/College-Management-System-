@@ -944,7 +944,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-**Original Author**: Sumit Sharma
+**Original Author**: Adarsh Kumar Mishra
 
 **Contact**: 
 - Email: support@college-management.com
